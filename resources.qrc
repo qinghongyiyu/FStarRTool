@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/record.png</file>
+        <file>icons/stop.png</file>
+        <file>icons/pause.png</file>
+        <file>icons/settings.png</file>
+        <file>icons/fullscreen.png</file>
+        <file>icons/window.png</file>
+        <file>icons/region.png</file>
+    </qresource>
+</RCC>
